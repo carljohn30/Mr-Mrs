@@ -1,0 +1,32 @@
+{
+  "header": {
+    "description": "Information about Mr. and Mrs. Doe",
+    "date": "2024-06-11"
+  },
+  "family": {
+    "Mr": {
+      "name": "John Doe",
+      "age": 35,
+      "occupation": "Software Engineer",
+      "email": "johndoe@example.com",
+      "address": {
+        "street": "123 Main St",
+        "city": "New York",
+        "state": "NY",
+        "zip": "10001"
+      }
+    },
+    "Mrs": {
+      "name": "Jane Doe",
+      "age": 33,
+      "occupation": "Graphic Designer",
+      "email": "janedoe@example.com",
+      "address": {
+        "street": "123 Main St",
+        "city": "New York",
+        "state": "NY",
+        "zip": "10001"
+      }
+    }
+  }
+}
